@@ -18,12 +18,12 @@ Pre-requisites:
 # To generate reports, This is what I do:
                      
    - Run tests and generate .xml reports
-     mvn test
+        _mvn test_
                      
    - Convert .xml reports into .html report, but without the CSS or images
-     mvn surefire-report:report-only
+        _mvn surefire-report:report-only_
                      
    - Put the CSS and images where they need to be without the rest of the time-consuming stuff
-     mvn site -DgenerateReports=false
+        _mvn site -DgenerateReports=false_
  
    - Go to DIRECTORY 'target/site/surefire-report.html' for the report.
