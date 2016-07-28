@@ -3,6 +3,12 @@ selenium web tests for butlers.com
 
 # This repository contains Selenium Web tests for butlers.com website
 
+Pre-requisites:
+- Java 8
+- Maven
+- Firefox
+
+
 To run the tests, do the following:
 - clone repository
 - run command: mvn clean install

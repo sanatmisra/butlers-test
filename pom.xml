@@ -8,7 +8,7 @@
 
 	<properties>
 		<!-- often changed dependencies -->
-		<dependencies.selenium.version>2.53.0</dependencies.selenium.version>
+		<dependencies.selenium.version>2.53.1</dependencies.selenium.version>
 		<dependencies.htmlunitdriver.version>2.20</dependencies.htmlunitdriver.version>
 	</properties>
 
