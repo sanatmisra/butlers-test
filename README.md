@@ -1,7 +1,7 @@
-# butlers-test
+# sanat-test
 selenium web tests for butlers.com
 
-# This repository contains Selenium Web tests for butlers.com website
+# This repository contains Selenium Web tests for some website
 
 Pre-requisites:
 - Java 8
