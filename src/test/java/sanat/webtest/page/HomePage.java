@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
  * Created by misras on 28/07/16.
  */
 public class HomePage {
-    WebDriver driver;
+    private WebDriver driver;
 
     public HomePage(WebDriver driver) {
         this.driver = driver;

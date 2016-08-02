@@ -158,7 +158,7 @@ public class WebDriverCreators {
             System.out.println("Windows detected, assigning proper executable.");
             return PHANTOMJS_WIN_EXECUTABLE_PATH;
         } else if (osName.contains("linux")) {
-            if (System.getProperty("os.arch").indexOf("64") != -1) {
+            if (System.getProperty("os.arch").contains("64")) {
                 return PHANTOMJS_LIN_64_EXECUTABLE_PATH;
             } else {
                 return PHANTOMJS_LIN_32_EXECUTABLE_PATH;

@@ -10,8 +10,8 @@ import org.openqa.selenium.support.PageFactory;
  * Created by misras on 29/07/16.
  */
 public class MyAccountPage {
-    WebDriver driver;
-    CustomWait customWait;
+    private WebDriver driver;
+    private CustomWait customWait;
 
     public MyAccountPage(WebDriver driver) {
         this.driver = driver;

@@ -10,8 +10,8 @@ import org.openqa.selenium.support.PageFactory;
  * Created by misras on 28/07/16.
  */
 public class LoginPage {
-    WebDriver driver;
-    CustomWait customWait;
+    private WebDriver driver;
+    private CustomWait customWait;
 
     public LoginPage(WebDriver driver) {
         this.driver = driver;
