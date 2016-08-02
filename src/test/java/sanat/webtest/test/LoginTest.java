@@ -1,9 +1,9 @@
-package butlers.webtest.test;
+package sanat.webtest.test;
 
-import butlers.helpers.driver.WebDriverCreators;
-import butlers.helpers.driver.WebDriverProvider;
-import butlers.webtest.page.LoginPage;
-import butlers.webtest.page.MyAccountPage;
+import sanat.helpers.driver.WebDriverCreators;
+import sanat.helpers.driver.WebDriverProvider;
+import sanat.webtest.page.LoginPage;
+import sanat.webtest.page.MyAccountPage;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

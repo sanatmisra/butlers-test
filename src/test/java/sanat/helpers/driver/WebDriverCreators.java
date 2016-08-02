@@ -1,4 +1,4 @@
-package butlers.helpers.driver;
+package sanat.helpers.driver;
 
 import org.apache.commons.lang.SystemUtils;
 import org.openqa.selenium.Dimension;

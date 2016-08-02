@@ -1,4 +1,4 @@
-package butlers.webtest.page;
+package sanat.webtest.page;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;

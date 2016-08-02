@@ -1,6 +1,6 @@
-package butlers.webtest.page;
+package sanat.webtest.page;
 
-import butlers.helpers.CustomWait;
+import sanat.helpers.CustomWait;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
